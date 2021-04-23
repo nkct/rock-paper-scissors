@@ -18,6 +18,8 @@ while True:
 	if player_input == 'help':
 		print('\n Commands avialble:\n [scissors] or [s] to play scissors \n [rock] or [r] to play rock \n [paper] or [p] to play paper \n \n [stats] to display streak, sum of wins and w/l ratio\n ')
 	
+	Excuse me can i buy bananas here?
+	
 	elif player_input == 'stats':
 		print("Wins: ", wins)
 		print("Loses: ", loses)
